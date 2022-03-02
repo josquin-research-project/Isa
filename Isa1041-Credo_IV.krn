@@ -1,10 +1,10 @@
-!!!COM:	Isaac, Heinrich
-!!!CDT:	~1450-1517/03/26
-!!!OTL:	Credo IV
-!!!AGN:	Mass; Credo
-!!!SCT:	Isa1041
-!!!SCA:	Isa1041
-!!!voices:	4
+!!!COM: Isaac, Heinrich
+!!!CDT: ~1450-1517/03/26
+!!!OTL: Credo IV
+!!!AGN: Mass; Credo
+!!!SCT: Isa1041
+!!!SCA: Isa1041
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -883,9 +883,9 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Megan K. Eagen 2014/10/02
-!!!END:	2014/10/02/
-!!!EED:	Jesse Rodin
-!!!EEV:	2014/10/12/
-!!!ONB:	Translated from MusicXML and edited on 2014/10/12/ by Craig Sapp
+!!!ENC: Megan K. Eagen 2014/10/02
+!!!END: 2014/10/02/
+!!!EED: Jesse Rodin
+!!!EEV: 2014/10/12/
+!!!ONB: Translated from MusicXML and edited on 2014/10/12/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v85,85,85,150c160
